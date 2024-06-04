@@ -1,6 +1,6 @@
 #import spaces
 from huggingface_hub import login
-login(token ="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")
+login(token ="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")
 import gradio as gr
 import torch
 from diffusers import (
