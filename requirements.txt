@@ -1,0 +1,9 @@
+torch
+torchvision
+pillow
+numpy
+typing
+scikit-image
+Diffusers
+transformers>=4.39.1
+accelerate
